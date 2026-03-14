@@ -1,0 +1,30 @@
+[search_placeholder]
+other = "搜索策略..."
+
+[reading_time]
+one = "阅读约 1 分钟"
+other = "阅读约 {{ .Count }} 分钟"
+
+[toc]
+other = "目录"
+
+[tags]
+other = "标签"
+
+[categories]
+other = "分类"
+
+[prev_page]
+other = "上一篇"
+
+[next_page]
+other = "下一篇"
+
+[share_on]
+other = "分享到"
+
+[posted_on]
+other = "发布于"
+
+[no_results]
+other = "未找到结果"
